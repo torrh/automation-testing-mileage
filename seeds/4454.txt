@@ -1,0 +1,454 @@
+  bash arg: -p
+  bash arg: com.evancharlton.mileage
+  bash arg: -v
+  bash arg: 5000
+  bash arg: -s
+  bash arg: 500
+:Monkey: seed=1544476645576 count=5000
+:AllowPackage: com.evancharlton.mileage
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(96.0,1327.0)
+:Sending Touch (ACTION_UP): 0:(99.691795,1327.2443)
+:Sending Touch (ACTION_DOWN): 0:(121.0,690.0)
+:Sending Touch (ACTION_UP): 0:(134.22089,690.3496)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1675.0)
+:Sending Touch (ACTION_UP): 0:(828.6303,1674.7195)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(958.0,1312.0)
+:Sending Touch (ACTION_UP): 0:(958.90735,1310.1129)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(527.0,526.0)
+:Sending Touch (ACTION_UP): 0:(538.1673,530.1702)
+:Sending Touch (ACTION_DOWN): 0:(433.0,985.0)
+:Sending Touch (ACTION_UP): 0:(442.4853,915.542)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(506.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(389.65787,1082.5768)
+:Sending Touch (ACTION_DOWN): 0:(938.0,407.0)
+:Sending Touch (ACTION_UP): 0:(937.0937,399.50894)
+:Sending Touch (ACTION_DOWN): 0:(600.0,330.0)
+:Sending Touch (ACTION_UP): 0:(607.0137,326.9723)
+:Sending Touch (ACTION_DOWN): 0:(654.0,587.0)
+:Sending Touch (ACTION_UP): 0:(661.9917,567.2523)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(204.0,1159.0)
+:Sending Touch (ACTION_UP): 0:(207.568,1151.874)
+:Sending Touch (ACTION_DOWN): 0:(447.0,1287.0)
+:Sending Touch (ACTION_UP): 0:(459.6183,1285.5446)
+    //[calendar_time:2018-12-08 10:12:08.126  system_uptime:48338259]
+    // Sending event #100
+    //[calendar_time:2018-12-08 10:12:08.127  system_uptime:48338260]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(639.0,747.0)
+:Sending Touch (ACTION_UP): 0:(639.68445,744.6415)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(372.0,116.0)
+:Sending Touch (ACTION_UP): 0:(273.18063,142.99095)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1476.0)
+:Sending Touch (ACTION_UP): 0:(968.88885,1519.8823)
+:Sending Touch (ACTION_DOWN): 0:(544.0,1508.0)
+:Sending Touch (ACTION_UP): 0:(537.9773,1521.0227)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.ServiceIntervalsListActivity } in package com.evancharlton.mileage
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.ServiceIntervalsListActivity } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(806.0,900.0)
+:Sending Touch (ACTION_UP): 0:(819.24835,911.0219)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(1007.62396,1134.1062)
+:Sending Touch (ACTION_DOWN): 0:(144.0,1326.0)
+:Sending Touch (ACTION_UP): 0:(145.8349,1303.347)
+:Sending Touch (ACTION_DOWN): 0:(29.0,870.0)
+:Sending Touch (ACTION_UP): 0:(30.170115,871.2759)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.ServiceIntervalTemplateListActivity } in package com.evancharlton.mileage
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(571.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(683.5032,1430.7513)
+:Sending Touch (ACTION_DOWN): 0:(617.0,993.0)
+:Sending Touch (ACTION_UP): 0:(614.3915,991.5996)
+:Sending Touch (ACTION_DOWN): 0:(53.0,1768.0)
+    //[calendar_time:2018-12-08 10:12:09.066  system_uptime:48339199]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(52.62874,1781.8881)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.ServiceIntervalTemplateActivity } in package com.evancharlton.mileage
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.ServiceIntervalTemplateActivity } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(527.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(481.48047,1613.6503)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(623.0,293.0)
+:Sending Touch (ACTION_UP): 0:(618.32556,290.19397)
+:Sending Touch (ACTION_DOWN): 0:(614.0,376.0)
+    //[calendar_time:2018-12-08 10:12:10.249  system_uptime:48340382]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(551.94147,347.04657)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(204.0,1612.0)
+:Sending Touch (ACTION_UP): 0:(203.38268,1537.2528)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(3.0,1244.0)
+:Sending Touch (ACTION_UP): 0:(3.7219408,1256.6298)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,706.0)
+:Sending Touch (ACTION_UP): 0:(1059.2819,713.6609)
+:Sending Touch (ACTION_DOWN): 0:(653.0,890.0)
+:Sending Touch (ACTION_UP): 0:(760.6135,852.2755)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(139.0,166.0)
+:Sending Touch (ACTION_UP): 0:(173.35936,219.28723)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(414.0,889.0)
+:Sending Touch (ACTION_UP): 0:(409.27896,889.40686)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(59.0,1352.0)
+:Sending Touch (ACTION_UP): 0:(58.95315,1350.8463)
+:Sending Touch (ACTION_DOWN): 0:(407.0,272.0)
+:Sending Touch (ACTION_UP): 0:(392.23422,276.01608)
+:Sending Touch (ACTION_DOWN): 0:(277.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(277.0499,1305.8551)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(309.85303,1546.5989)
+:Sending Touch (ACTION_DOWN): 0:(501.0,1783.0)
+    //[calendar_time:2018-12-08 10:12:10.920  system_uptime:48341053]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(500.73434,1782.4673)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(218.0,285.0)
+:Sending Touch (ACTION_UP): 0:(217.8104,284.06595)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(562.0,338.0)
+:Sending Touch (ACTION_UP): 0:(463.9827,277.7975)
+:Sending Touch (ACTION_DOWN): 0:(732.0,902.0)
+:Sending Touch (ACTION_UP): 0:(729.81824,907.6913)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(914.0,770.0)
+:Sending Touch (ACTION_UP): 0:(899.59534,781.35345)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(50.0,1.0)
+    //[calendar_time:2018-12-08 10:12:11.579  system_uptime:48341712]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(654.0,868.0)
+:Sending Touch (ACTION_UP): 0:(690.96765,830.3805)
+:Sending Touch (ACTION_DOWN): 0:(958.0,374.0)
+:Sending Touch (ACTION_UP): 0:(902.92584,501.25494)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(962.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(964.60895,1699.9296)
+:Sending Touch (ACTION_DOWN): 0:(601.0,832.0)
+:Sending Touch (ACTION_UP): 0:(602.26886,836.3277)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(39.0,43.0)
+:Sending Touch (ACTION_UP): 0:(26.746761,48.804047)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1132.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_UP): 0:(909.1425,1114.103)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2018-12-08 10:12:11.894  system_uptime:48342027]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(724.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(702.8902,1557.8455)
+:Sending Touch (ACTION_DOWN): 0:(881.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(792.3646,1794.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(0.0,1400.0)
+:Sending Touch (ACTION_UP): 0:(4.7238507,1399.9181)
+:Sending Touch (ACTION_DOWN): 0:(75.0,1338.0)
+:Sending Touch (ACTION_UP): 0:(73.68626,1342.3333)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(836.60223,1611.9819)
+:Sending Touch (ACTION_DOWN): 0:(940.0,940.0)
+:Sending Touch (ACTION_UP): 0:(942.64923,936.9924)
+    // Rejecting start of Intent { cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.OpaActivity } in package com.google.android.googlequicksearchbox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(19.0,1226.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1205.5027)
+:Sending Touch (ACTION_DOWN): 0:(404.0,565.0)
+:Sending Touch (ACTION_UP): 0:(403.84213,573.7452)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(586.0,185.0)
+:Sending Touch (ACTION_UP): 0:(558.39795,182.58267)
+:Sending Touch (ACTION_DOWN): 0:(25.0,1514.0)
+    //[calendar_time:2018-12-08 10:12:12.427  system_uptime:48342560]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(28.969193,1526.0002)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(373.26324,1746.5709)
+:Sending Touch (ACTION_DOWN): 0:(178.0,68.0)
+:Sending Touch (ACTION_UP): 0:(227.05977,62.51419)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(634.0,146.0)
+:Sending Touch (ACTION_UP): 0:(714.9434,159.65416)
+:Sending Touch (ACTION_DOWN): 0:(330.0,725.0)
+:Sending Touch (ACTION_UP): 0:(314.11267,725.0646)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(691.0,1432.0)
+:Sending Touch (ACTION_UP): 0:(738.82886,1499.7379)
+:Sending Touch (ACTION_DOWN): 0:(121.0,1502.0)
+:Sending Touch (ACTION_UP): 0:(154.85066,1560.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(717.0,147.0)
+:Sending Touch (ACTION_UP): 0:(713.7445,152.41827)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(201.0,261.0)
+:Sending Touch (ACTION_UP): 0:(218.0127,260.9192)
+:Sending Touch (ACTION_DOWN): 0:(361.0,377.0)
+:Sending Touch (ACTION_UP): 0:(370.92123,382.72284)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2018-12-08 10:12:12.972  system_uptime:48343105]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,1085.0)
+:Sending Touch (ACTION_UP): 0:(606.88824,1081.8013)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(534.0,1588.0)
+    // activityResuming(com.evancharlton.mileage)
+:Sending Touch (ACTION_UP): 0:(507.22336,1511.4554)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(984.0,1762.0)
+:Sending Touch (ACTION_UP): 0:(983.08374,1775.2369)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1327.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_UP): 0:(262.9604,1276.7408)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(561.7678,1356.8899)
+:Sending Touch (ACTION_DOWN): 0:(776.0,469.0)
+:Sending Touch (ACTION_UP): 0:(636.3111,454.5729)
+:Sending Touch (ACTION_DOWN): 0:(446.0,568.0)
+    //[calendar_time:2018-12-08 10:12:13.439  system_uptime:48343572]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(444.71786,563.68134)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(93.0,336.0)
+:Sending Touch (ACTION_UP): 0:(105.07205,342.6025)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(925.0,1750.0)
+:Sending Touch (ACTION_UP): 0:(924.8061,1748.2277)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(527.0,791.0)
+:Sending Touch (ACTION_UP): 0:(546.0719,797.59436)
+:Sending Touch (ACTION_DOWN): 0:(970.0,332.0)
+:Sending Touch (ACTION_UP): 0:(1032.6042,428.91214)
+:Sending Touch (ACTION_DOWN): 0:(336.0,349.0)
+    //[calendar_time:2018-12-08 10:12:13.682  system_uptime:48343815]
+    // Sending event #1000
+:Sending Touch (ACTION_UP): 0:(208.31981,291.42505)
+:Sending Touch (ACTION_DOWN): 0:(69.0,254.0)
+:Sending Touch (ACTION_UP): 0:(76.96812,323.40488)
+:Sending Touch (ACTION_DOWN): 0:(482.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(473.0226,1087.736)
+:Sending Touch (ACTION_DOWN): 0:(668.0,1381.0)
+:Sending Touch (ACTION_UP): 0:(654.8509,1422.2148)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(853.0,390.0)
+:Sending Touch (ACTION_UP): 0:(861.0338,374.9363)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(120.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(76.3833,1120.9059)
+:Sending Touch (ACTION_DOWN): 0:(912.0,115.0)
+:Sending Touch (ACTION_UP): 0:(955.8891,143.05843)
+:Sending Touch (ACTION_DOWN): 0:(577.0,353.0)
+:Sending Touch (ACTION_UP): 0:(575.08215,349.2443)
+:Sending Touch (ACTION_DOWN): 0:(779.0,475.0)
+:Sending Touch (ACTION_UP): 0:(783.88745,475.94305)
+:Sending Touch (ACTION_DOWN): 0:(216.0,1292.0)
+:Sending Touch (ACTION_UP): 0:(218.72089,1301.7457)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2018-12-08 10:12:14.244  system_uptime:48344377]
+    // Sending event #1100
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(306.0,771.0)
+:Sending Touch (ACTION_UP): 0:(372.56067,746.1731)
+:Sending Touch (ACTION_DOWN): 0:(1013.0,1357.0)
+:Sending Touch (ACTION_UP): 0:(1005.6576,1348.5184)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(598.0,196.0)
+:Sending Touch (ACTION_UP): 0:(601.5876,253.06212)
+:Sending Touch (ACTION_DOWN): 0:(236.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(235.6607,1537.8666)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1015.0,338.0)
+:Sending Touch (ACTION_UP): 0:(1007.096,341.9166)
+:Sending Touch (ACTION_DOWN): 0:(784.0,645.0)
+:Sending Touch (ACTION_UP): 0:(787.3378,636.812)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(567.66144,1194.6523)
+:Sending Touch (ACTION_DOWN): 0:(162.0,1451.0)
+:Sending Touch (ACTION_UP): 0:(151.3824,1441.4774)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(831.0,612.0)
+:Sending Touch (ACTION_UP): 0:(831.1463,596.0876)
+    //[calendar_time:2018-12-08 10:12:15.684  system_uptime:48345817]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(918.0,599.0)
+:Sending Touch (ACTION_UP): 0:(901.1485,595.749)
+:Sending Touch (ACTION_DOWN): 0:(150.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(127.467415,1608.4014)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(277.0,461.0)
+:Sending Touch (ACTION_UP): 0:(176.61401,517.28674)
+:Sending Touch (ACTION_DOWN): 0:(641.0,1600.0)
+:Sending Touch (ACTION_UP): 0:(640.52783,1585.6022)
+:Sending Touch (ACTION_DOWN): 0:(22.0,659.0)
+:Sending Touch (ACTION_UP): 0:(15.428907,660.8698)
+:Sending Touch (ACTION_DOWN): 0:(133.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(154.12674,1014.9842)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(625.0,421.0)
+:Sending Touch (ACTION_UP): 0:(620.3379,390.9763)
+    // activityResuming(com.evancharlton.mileage)
+:Sending Touch (ACTION_DOWN): 0:(421.0,645.0)
+:Sending Touch (ACTION_UP): 0:(412.05533,643.556)
+:Sending Touch (ACTION_DOWN): 0:(423.0,1684.0)
+:Sending Touch (ACTION_UP): 0:(362.66965,1696.6384)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.ServiceIntervalTemplateActivity } in package com.evancharlton.mileage
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(419.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(425.0319,1624.416)
+    //[calendar_time:2018-12-08 10:12:16.600  system_uptime:48346733]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1506.0)
+:Sending Touch (ACTION_UP): 0:(1044.1614,1521.8983)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(932.0,702.0)
+:Sending Touch (ACTION_UP): 0:(1035.398,748.6568)
+:Sending Touch (ACTION_DOWN): 0:(737.0,113.0)
+:Sending Touch (ACTION_UP): 0:(658.2805,111.32574)
+:Sending Touch (ACTION_DOWN): 0:(685.0,648.0)
+:Sending Touch (ACTION_UP): 0:(661.5671,520.65265)
+:Sending Touch (ACTION_DOWN): 0:(541.0,794.0)
+:Sending Touch (ACTION_UP): 0:(546.42676,792.27277)
+:Sending Touch (ACTION_DOWN): 0:(311.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(314.15247,1142.0101)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,869.0)
+:Sending Touch (ACTION_UP): 0:(374.96252,867.82965)
+:Sending Touch (ACTION_DOWN): 0:(808.0,1373.0)
+:Sending Touch (ACTION_UP): 0:(827.56274,1385.7174)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2018-12-08 10:12:17.516  system_uptime:48347649]
+    // Sending event #1400
+    //[calendar_time:2018-12-08 10:12:17.516  system_uptime:48347649]
+    // Sending event #1400
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(762.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(751.9022,1763.8617)
+:Sending Touch (ACTION_DOWN): 0:(564.0,385.0)
+:Sending Touch (ACTION_UP): 0:(569.07135,383.57172)
+:Sending Touch (ACTION_DOWN): 0:(463.0,586.0)
+:Sending Touch (ACTION_UP): 0:(448.53564,585.56775)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,1112.0)
+:Sending Touch (ACTION_UP): 0:(1069.3182,1116.5436)
+:Sending Touch (ACTION_DOWN): 0:(662.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(662.4325,1687.9807)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(280.0,902.0)
+:Sending Touch (ACTION_UP): 0:(271.4911,901.0964)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2018-12-08 10:12:18.212  system_uptime:48348345]
+    // Sending event #1500
+:Sending Touch (ACTION_DOWN): 0:(317.0,1767.0)
+:Sending Touch (ACTION_UP): 0:(278.7236,1759.4575)
+:Sending Touch (ACTION_DOWN): 0:(268.0,129.0)
+:Sending Touch (ACTION_UP): 0:(268.0907,129.75711)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(594.0,1083.0)
+:Sending Touch (ACTION_UP): 0:(639.60974,1051.9663)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,778.0)
+:Sending Touch (ACTION_UP): 0:(1042.8638,788.00854)
+:Sending Touch (ACTION_DOWN): 0:(799.0,1259.0)
+:Sending Touch (ACTION_UP): 0:(799.8942,1260.1321)
+    //[calendar_time:2018-12-08 10:12:18.611  system_uptime:48348744]
+    // Sending event #1600
+    //[calendar_time:2018-12-08 10:12:18.612  system_uptime:48348745]
+    // Sending event #1600
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(770.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(769.68,1498.8239)
+:Sending Touch (ACTION_DOWN): 0:(178.0,146.0)
+:Sending Touch (ACTION_UP): 0:(170.26892,140.86635)
+:Sending Touch (ACTION_DOWN): 0:(954.0,308.0)
+:Sending Touch (ACTION_UP): 0:(1033.3499,308.55658)
+:Sending Touch (ACTION_DOWN): 0:(258.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(263.11304,1195.8334)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,993.0)
+:Sending Touch (ACTION_UP): 0:(108.28228,1003.6118)
+:Sending Touch (ACTION_DOWN): 0:(863.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(865.43384,1389.4619)
+** Monkey aborted due to error.
+Events injected: 1685
+:Sending rotation degree=0, persist=false
+:Dropped: keys=1 pointers=2 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=11689ms (0ms mobile, 0ms wifi, 11689ms not connected)

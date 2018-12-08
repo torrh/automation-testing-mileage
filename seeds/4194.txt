@@ -1,0 +1,1291 @@
+  bash arg: -p
+  bash arg: com.evancharlton.mileage
+  bash arg: -v
+  bash arg: 5000
+  bash arg: -s
+  bash arg: 500
+:Monkey: seed=1544418867108 count=5000
+:AllowPackage: com.evancharlton.mileage
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(455.0,179.0)
+:Sending Touch (ACTION_UP): 0:(459.16528,168.6658)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(524.0,65.0)
+:Sending Touch (ACTION_UP): 0:(518.08417,65.00164)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(148.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(170.6158,1010.1952)
+:Sending Touch (ACTION_DOWN): 0:(766.0,466.0)
+:Sending Touch (ACTION_UP): 0:(766.3393,454.0044)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(529.0,813.0)
+:Sending Touch (ACTION_UP): 0:(537.6486,818.1712)
+:Sending Touch (ACTION_DOWN): 0:(622.0,297.0)
+:Sending Touch (ACTION_UP): 0:(628.79504,291.2829)
+:Sending Touch (ACTION_DOWN): 0:(590.0,890.0)
+:Sending Touch (ACTION_UP): 0:(605.1393,889.525)
+:Sending Touch (ACTION_DOWN): 0:(951.0,745.0)
+:Sending Touch (ACTION_UP): 0:(945.4129,746.224)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(54.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(61.70192,1077.1678)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(143.0,992.0)
+:Sending Touch (ACTION_UP): 0:(144.21556,991.4755)
+    //[calendar_time:2018-12-08 10:23:25.329  system_uptime:49015428]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(711.0,544.0)
+:Sending Touch (ACTION_UP): 0:(712.3159,551.0884)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(923.3442,1239.3766)
+:Sending Touch (ACTION_DOWN): 0:(686.0,955.0)
+:Sending Touch (ACTION_UP): 0:(708.28174,909.25885)
+:Sending Touch (ACTION_DOWN): 0:(53.0,1446.0)
+:Sending Touch (ACTION_UP): 0:(59.4905,1448.1599)
+:Sending Touch (ACTION_DOWN): 0:(355.0,1569.0)
+:Sending Touch (ACTION_UP): 0:(353.6499,1549.7688)
+:Sending Touch (ACTION_DOWN): 0:(594.0,997.0)
+:Sending Touch (ACTION_UP): 0:(597.83575,989.5546)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(570.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(589.2494,1761.5122)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.charts.MaximumCostChart } in package com.evancharlton.mileage
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.SettingsActivity } in package com.evancharlton.mileage
+    // Rejecting start of Intent { cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.OpaActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(580.0,766.0)
+:Sending Touch (ACTION_UP): 0:(581.429,759.9804)
+:Sending Touch (ACTION_DOWN): 0:(174.0,1276.0)
+:Sending Touch (ACTION_UP): 0:(170.56364,1280.5084)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+    //[calendar_time:2018-12-08 10:23:26.282  system_uptime:49016380]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(103.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(103.55166,1656.4122)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(930.0,422.0)
+:Sending Touch (ACTION_UP): 0:(951.80164,386.7864)
+:Sending Touch (ACTION_DOWN): 0:(718.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(725.19135,1269.0306)
+:Sending Touch (ACTION_DOWN): 0:(947.0,1706.0)
+:Sending Touch (ACTION_UP): 0:(951.1029,1710.179)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.AboutActivity } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(532.0,873.0)
+:Sending Touch (ACTION_UP): 0:(530.944,877.23315)
+:Sending Touch (ACTION_DOWN): 0:(115.0,1131.0)
+    //[calendar_time:2018-12-08 10:23:27.132  system_uptime:49017230]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(256.73373,1183.3892)
+:Sending Touch (ACTION_DOWN): 0:(539.0,427.0)
+:Sending Touch (ACTION_UP): 0:(545.93884,429.72394)
+:Sending Touch (ACTION_DOWN): 0:(873.0,649.0)
+:Sending Touch (ACTION_UP): 0:(858.0604,642.10376)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(918.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(946.4472,1769.3768)
+:Sending Touch (ACTION_DOWN): 0:(554.0,100.0)
+:Sending Touch (ACTION_UP): 0:(625.00696,183.0757)
+:Sending Touch (ACTION_DOWN): 0:(128.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(108.20872,1361.0894)
+:Sending Touch (ACTION_DOWN): 0:(537.0,989.0)
+:Sending Touch (ACTION_UP): 0:(505.37222,1013.6373)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(336.0,813.0)
+:Sending Touch (ACTION_UP): 0:(336.76654,805.50226)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    //[calendar_time:2018-12-08 10:23:27.524  system_uptime:49017622]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(882.0,549.0)
+:Sending Touch (ACTION_UP): 0:(886.02405,548.0352)
+:Sending Touch (ACTION_DOWN): 0:(119.0,958.0)
+:Sending Touch (ACTION_UP): 0:(113.348335,959.3981)
+:Sending Touch (ACTION_DOWN): 0:(778.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(778.67523,1313.9786)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(455.11237,1199.0123)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(135.0,516.0)
+:Sending Touch (ACTION_UP): 0:(142.1574,516.43524)
+:Sending Touch (ACTION_DOWN): 0:(353.0,604.0)
+:Sending Touch (ACTION_UP): 0:(351.58984,603.07745)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(262.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(256.44427,1387.7847)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(107.0,1513.0)
+:Sending Touch (ACTION_UP): 0:(127.390884,1504.7021)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(468.0,1326.0)
+    //[calendar_time:2018-12-08 10:23:27.751  system_uptime:49017850]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(468.51703,1324.5828)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(500.0,510.0)
+:Sending Touch (ACTION_UP): 0:(492.85858,511.21585)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(117.0,98.0)
+:Sending Touch (ACTION_UP): 0:(119.84562,105.92801)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(1017.3653,1635.1193)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(989.0,922.0)
+:Sending Touch (ACTION_UP): 0:(1037.8109,886.65735)
+:Sending Touch (ACTION_DOWN): 0:(1000.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(960.37744,1149.655)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2018-12-08 10:23:28.374  system_uptime:49018473]
+    // Sending event #600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(552.0,1509.0)
+:Sending Touch (ACTION_UP): 0:(552.58624,1505.0604)
+:Sending Touch (ACTION_DOWN): 0:(917.0,1760.0)
+:Sending Touch (ACTION_UP): 0:(915.4924,1743.5508)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(4.0,177.0)
+:Sending Touch (ACTION_UP): 0:(0.0,186.76073)
+:Sending Touch (ACTION_DOWN): 0:(646.0,751.0)
+:Sending Touch (ACTION_UP): 0:(628.16095,751.9408)
+:Sending Touch (ACTION_DOWN): 0:(337.0,139.0)
+:Sending Touch (ACTION_UP): 0:(334.1802,138.22028)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(741.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(740.8956,1101.7008)
+:Sending Touch (ACTION_DOWN): 0:(597.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(598.8341,1501.3022)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(964.0,1227.0)
+:Sending Touch (ACTION_UP): 0:(972.80066,1205.4939)
+:Sending Touch (ACTION_DOWN): 0:(223.0,80.0)
+:Sending Touch (ACTION_UP): 0:(223.91403,79.3918)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,670.0)
+:Sending Touch (ACTION_UP): 0:(455.18207,741.5381)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android-mileage.googlecode.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2018-12-08 10:23:28.794  system_uptime:49018893]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(313.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(306.24503,1436.5045)
+:Sending Touch (ACTION_DOWN): 0:(541.0,1466.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_UP): 0:(628.4223,1446.7866)
+:Sending Touch (ACTION_DOWN): 0:(505.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(540.13696,1459.7516)
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1341.0)
+:Sending Touch (ACTION_UP): 0:(955.4223,1332.2295)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1451.9935)
+    //[calendar_time:2018-12-08 10:23:29.193  system_uptime:49019292]
+    // Sending event #800
+    //[calendar_time:2018-12-08 10:23:29.194  system_uptime:49019292]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(781.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(707.29456,1211.7191)
+:Sending Touch (ACTION_DOWN): 0:(375.0,1538.0)
+:Sending Touch (ACTION_UP): 0:(331.81503,1527.8195)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(330.0,1776.0)
+:Sending Touch (ACTION_UP): 0:(433.59207,1705.55)
+:Sending Touch (ACTION_DOWN): 0:(148.0,542.0)
+:Sending Touch (ACTION_UP): 0:(135.79295,539.975)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(701.0,1790.0)
+:Sending Touch (ACTION_UP): 0:(674.1507,1764.8197)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(219.0,91.0)
+:Sending Touch (ACTION_UP): 0:(156.22372,29.933613)
+    //[calendar_time:2018-12-08 10:23:29.533  system_uptime:49019631]
+    // Sending event #900
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(55.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(57.015812,1456.7429)
+:Sending Touch (ACTION_DOWN): 0:(459.0,722.0)
+:Sending Touch (ACTION_UP): 0:(464.9197,722.0702)
+:Sending Touch (ACTION_DOWN): 0:(97.0,447.0)
+:Sending Touch (ACTION_UP): 0:(204.00824,445.94556)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(158.0,512.0)
+:Sending Touch (ACTION_UP): 0:(154.46725,527.26624)
+:Sending Touch (ACTION_DOWN): 0:(678.0,464.0)
+:Sending Touch (ACTION_UP): 0:(670.467,453.85278)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(575.0,955.0)
+:Sending Touch (ACTION_UP): 0:(563.7643,968.1231)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2018-12-08 10:23:30.169  system_uptime:49020268]
+    // Sending event #1000
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(504.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(433.75082,1049.6526)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1517.0)
+:Sending Touch (ACTION_UP): 0:(281.8908,1517.9669)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://stevealbright.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(369.0,716.0)
+:Sending Touch (ACTION_UP): 0:(224.33185,635.0955)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(161.0,592.0)
+:Sending Touch (ACTION_UP): 0:(251.20334,667.7643)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    //[calendar_time:2018-12-08 10:23:30.606  system_uptime:49020704]
+    // Sending event #1100
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(1038.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(1068.6084,1208.8861)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,924.0)
+:Sending Touch (ACTION_UP): 0:(1002.29767,894.35846)
+:Sending Touch (ACTION_DOWN): 0:(1013.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(1010.7365,1216.4318)
+:Sending Touch (ACTION_DOWN): 0:(161.0,454.0)
+:Sending Touch (ACTION_UP): 0:(160.67458,453.69263)
+:Sending Touch (ACTION_DOWN): 0:(572.0,1719.0)
+:Sending Touch (ACTION_UP): 0:(581.0426,1714.168)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    //[calendar_time:2018-12-08 10:23:30.944  system_uptime:49021044]
+    // Sending event #1200
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(873.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(876.3962,1373.5825)
+:Sending Touch (ACTION_DOWN): 0:(42.0,373.0)
+:Sending Touch (ACTION_UP): 0:(44.90485,366.3239)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(518.4261,1705.9174)
+:Sending Touch (ACTION_DOWN): 0:(717.0,21.0)
+:Sending Touch (ACTION_UP): 0:(711.9548,21.889288)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(214.0,165.0)
+:Sending Touch (ACTION_UP): 0:(251.269,179.28964)
+:Sending Touch (ACTION_DOWN): 0:(823.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(824.315,1265.3259)
+    //[calendar_time:2018-12-08 10:23:31.409  system_uptime:49021507]
+    // Sending event #1300
+    //[calendar_time:2018-12-08 10:23:31.409  system_uptime:49021507]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(770.0,1792.0)
+:Sending Touch (ACTION_UP): 0:(770.72876,1784.6597)
+:Sending Touch (ACTION_DOWN): 0:(830.0,775.0)
+:Sending Touch (ACTION_UP): 0:(870.1041,793.8281)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(155.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(165.80045,1306.4497)
+:Sending Touch (ACTION_DOWN): 0:(884.0,539.0)
+:Sending Touch (ACTION_UP): 0:(883.78156,525.92194)
+:Sending Touch (ACTION_DOWN): 0:(632.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(635.8297,1664.2396)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(799.0,579.0)
+:Sending Touch (ACTION_UP): 0:(791.94965,570.7866)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+    // Rejecting start of Intent { act=android.settings.SETTINGS cmp=com.android.settings/.Settings } in package com.android.settings
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(514.0,670.0)
+:Sending Touch (ACTION_UP): 0:(508.75763,662.64526)
+:Sending Touch (ACTION_DOWN): 0:(61.0,1125.0)
+:Sending Touch (ACTION_UP): 0:(66.8208,1122.834)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2018-12-08 10:23:31.839  system_uptime:49021937]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(798.0,408.0)
+:Sending Touch (ACTION_UP): 0:(791.21857,403.93213)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(1022.2286,1735.1061)
+:Sending Touch (ACTION_DOWN): 0:(457.0,464.0)
+:Sending Touch (ACTION_UP): 0:(442.80368,467.9502)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(405.0,1721.0)
+:Sending Touch (ACTION_UP): 0:(403.9657,1721.7814)
+:Sending Touch (ACTION_DOWN): 0:(982.0,858.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,839.8452)
+:Sending Touch (ACTION_DOWN): 0:(605.0,792.0)
+:Sending Touch (ACTION_UP): 0:(534.87213,746.1779)
+:Sending Touch (ACTION_DOWN): 0:(266.0,97.0)
+:Sending Touch (ACTION_UP): 0:(275.07242,103.43646)
+:Sending Touch (ACTION_DOWN): 0:(52.0,708.0)
+:Sending Touch (ACTION_UP): 0:(53.905712,725.0328)
+:Sending Touch (ACTION_DOWN): 0:(501.0,1439.0)
+:Sending Touch (ACTION_UP): 0:(518.84937,1440.8171)
+:Sending Touch (ACTION_DOWN): 0:(977.0,767.0)
+:Sending Touch (ACTION_UP): 0:(981.2387,765.7795)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2018-12-08 10:23:32.214  system_uptime:49022312]
+    // Sending event #1500
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=com.android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(412.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(416.19363,1395.8988)
+:Sending Touch (ACTION_DOWN): 0:(707.0,604.0)
+:Sending Touch (ACTION_UP): 0:(682.6381,609.1174)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,953.0)
+:Sending Touch (ACTION_UP): 0:(1075.3387,932.5057)
+:Sending Touch (ACTION_DOWN): 0:(67.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(19.65403,1367.1627)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(151.0,1193.0)
+:Sending Touch (ACTION_UP): 0:(150.9925,1193.2772)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    //[calendar_time:2018-12-08 10:23:32.575  system_uptime:49022674]
+    // Sending event #1600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,116.0)
+:Sending Touch (ACTION_UP): 0:(605.50714,115.326904)
+:Sending Touch (ACTION_DOWN): 0:(495.0,463.0)
+:Sending Touch (ACTION_UP): 0:(492.28506,458.18784)
+:Sending Touch (ACTION_DOWN): 0:(448.0,1670.0)
+:Sending Touch (ACTION_UP): 0:(448.62442,1660.0068)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1045.0)
+:Sending Touch (ACTION_UP): 0:(883.0898,1046.3615)
+:Sending Touch (ACTION_DOWN): 0:(113.0,814.0)
+:Sending Touch (ACTION_UP): 0:(66.28658,918.8449)
+:Sending Touch (ACTION_DOWN): 0:(913.0,57.0)
+:Sending Touch (ACTION_UP): 0:(970.786,47.756683)
+:Sending Touch (ACTION_DOWN): 0:(714.0,382.0)
+:Sending Touch (ACTION_UP): 0:(708.84155,302.1442)
+:Sending Touch (ACTION_DOWN): 0:(784.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(784.37354,1121.6913)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1102.0)
+:Sending Touch (ACTION_UP): 0:(88.90532,1112.689)
+    //[calendar_time:2018-12-08 10:23:32.833  system_uptime:49022931]
+    // Sending event #1700
+    //[calendar_time:2018-12-08 10:23:32.833  system_uptime:49022931]
+    // Sending event #1700
+:Sending Touch (ACTION_DOWN): 0:(812.0,368.0)
+:Sending Touch (ACTION_UP): 0:(804.85114,377.6)
+:Sending Touch (ACTION_DOWN): 0:(340.0,739.0)
+:Sending Touch (ACTION_UP): 0:(353.53714,738.77875)
+:Sending Touch (ACTION_DOWN): 0:(732.0,77.0)
+:Sending Touch (ACTION_UP): 0:(729.664,78.521545)
+:Sending Touch (ACTION_DOWN): 0:(359.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(397.4091,1069.5854)
+:Sending Touch (ACTION_DOWN): 0:(262.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(255.99925,1243.2523)
+:Sending Touch (ACTION_DOWN): 0:(607.0,273.0)
+:Sending Touch (ACTION_UP): 0:(619.91327,271.00647)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,284.0)
+:Sending Touch (ACTION_UP): 0:(1054.4886,283.63547)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(762.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(742.7268,1719.1772)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(52.0,550.0)
+:Sending Touch (ACTION_UP): 0:(51.8112,561.1707)
+:Sending Touch (ACTION_DOWN): 0:(514.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(438.69702,925.6013)
+:Sending Touch (ACTION_DOWN): 0:(329.0,955.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_UP): 0:(355.04868,895.22986)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2018-12-08 10:23:33.121  system_uptime:49023219]
+    // Sending event #1800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(591.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(589.9056,1225.5768)
+:Sending Touch (ACTION_DOWN): 0:(640.0,821.0)
+:Sending Touch (ACTION_UP): 0:(633.89514,821.4712)
+:Sending Touch (ACTION_DOWN): 0:(498.0,530.0)
+:Sending Touch (ACTION_UP): 0:(497.81235,547.47516)
+:Sending Touch (ACTION_DOWN): 0:(501.0,848.0)
+:Sending Touch (ACTION_UP): 0:(516.63983,847.9925)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(577.0,618.0)
+:Sending Touch (ACTION_UP): 0:(587.41296,598.6379)
+:Sending Touch (ACTION_DOWN): 0:(556.0,1666.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_UP): 0:(606.0829,1730.8282)
+:Sending Touch (ACTION_DOWN): 0:(765.0,423.0)
+:Sending Touch (ACTION_UP): 0:(682.2554,422.66202)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(369.0,1303.0)
+    //[calendar_time:2018-12-08 10:23:33.426  system_uptime:49023525]
+    // Sending event #1900
+:Sending Touch (ACTION_UP): 0:(400.10132,1276.0518)
+:Sending Touch (ACTION_DOWN): 0:(420.0,6.0)
+:Sending Touch (ACTION_UP): 0:(495.9814,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1008.0,150.0)
+:Sending Touch (ACTION_UP): 0:(1002.6553,152.32564)
+:Sending Touch (ACTION_DOWN): 0:(175.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(144.21321,1241.5507)
+:Sending Touch (ACTION_DOWN): 0:(780.0,979.0)
+:Sending Touch (ACTION_UP): 0:(774.1026,982.4703)
+:Sending Touch (ACTION_DOWN): 0:(225.0,475.0)
+:Sending Touch (ACTION_UP): 0:(216.55913,482.40353)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(429.0,247.0)
+:Sending Touch (ACTION_UP): 0:(434.99747,244.63338)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(189.0,1436.0)
+:Sending Touch (ACTION_UP): 0:(232.5887,1395.6282)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(742.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(761.6105,1623.2695)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+    //[calendar_time:2018-12-08 10:23:33.803  system_uptime:49023901]
+    // Sending event #2000
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(221.0,1173.0)
+:Sending Touch (ACTION_UP): 0:(219.67725,1170.961)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(248.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(245.49316,1048.4554)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(802.0,1514.0)
+:Sending Touch (ACTION_UP): 0:(798.478,1516.8467)
+:Sending Touch (ACTION_DOWN): 0:(281.0,81.0)
+:Sending Touch (ACTION_UP): 0:(282.78632,74.85783)
+:Sending Touch (ACTION_DOWN): 0:(355.0,1345.0)
+:Sending Touch (ACTION_UP): 0:(354.97266,1391.5977)
+:Sending Touch (ACTION_DOWN): 0:(869.0,1305.0)
+:Sending Touch (ACTION_UP): 0:(752.29956,1239.3938)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(783.0,602.0)
+    //[calendar_time:2018-12-08 10:23:34.066  system_uptime:49024164]
+    // Sending event #2100
+:Sending Touch (ACTION_UP): 0:(905.2877,606.1566)
+:Sending Touch (ACTION_DOWN): 0:(845.0,51.0)
+:Sending Touch (ACTION_UP): 0:(880.3547,76.8469)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(116.0,1351.0)
+:Sending Touch (ACTION_UP): 0:(121.96959,1351.1826)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,1613.0)
+:Sending Touch (ACTION_UP): 0:(1048.7247,1628.59)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,1490.0)
+:Sending Touch (ACTION_UP): 0:(1027.0605,1486.73)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2018-12-08 10:23:34.835  system_uptime:49024933]
+    // Sending event #2200
+:Sending Touch (ACTION_DOWN): 0:(226.0,1550.0)
+:Sending Touch (ACTION_UP): 0:(225.657,1537.7338)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(270.0,833.0)
+:Sending Touch (ACTION_UP): 0:(280.0855,844.37115)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(570.0,809.0)
+:Sending Touch (ACTION_UP): 0:(547.71124,810.05743)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(751.0,1780.0)
+:Sending Touch (ACTION_UP): 0:(766.759,1794.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(727.0,810.0)
+:Sending Touch (ACTION_UP): 0:(723.9002,808.28125)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(534.0,887.0)
+:Sending Touch (ACTION_UP): 0:(535.07526,882.76276)
+:Sending Touch (ACTION_DOWN): 0:(92.0,309.0)
+:Sending Touch (ACTION_UP): 0:(99.51014,293.10974)
+:Sending Touch (ACTION_DOWN): 0:(410.0,562.0)
+:Sending Touch (ACTION_UP): 0:(409.8948,570.97)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(1014.49536,1224.9143)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(374.12344,1513.9069)
+    //[calendar_time:2018-12-08 10:23:35.339  system_uptime:49025437]
+    // Sending event #2300
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(481.0,879.0)
+:Sending Touch (ACTION_UP): 0:(468.38806,871.43634)
+:Sending Touch (ACTION_DOWN): 0:(880.0,434.0)
+:Sending Touch (ACTION_UP): 0:(854.6886,450.54257)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(586.0,776.0)
+:Sending Touch (ACTION_UP): 0:(582.76843,762.10126)
+:Sending Touch (ACTION_DOWN): 0:(463.0,1140.0)
+:Sending Touch (ACTION_UP): 0:(469.35632,1153.6007)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(756.0,629.0)
+:Sending Touch (ACTION_UP): 0:(805.7375,563.35126)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(22.0,1026.0)
+:Sending Touch (ACTION_UP): 0:(42.54705,1033.4722)
+:Sending Touch (ACTION_DOWN): 0:(221.0,1329.0)
+:Sending Touch (ACTION_UP): 0:(222.06602,1326.379)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    //[calendar_time:2018-12-08 10:23:35.918  system_uptime:49026016]
+    // Sending event #2400
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(357.0,403.0)
+:Sending Touch (ACTION_UP): 0:(369.0382,390.26825)
+:Sending Touch (ACTION_DOWN): 0:(306.0,1667.0)
+:Sending Touch (ACTION_UP): 0:(289.212,1662.088)
+:Sending Touch (ACTION_DOWN): 0:(230.0,1612.0)
+:Sending Touch (ACTION_UP): 0:(227.99577,1619.7644)
+:Sending Flip keyboardOpen=true
+    // activityResuming(com.evancharlton.mileage)
+:Sending Touch (ACTION_DOWN): 0:(358.0,1770.0)
+:Sending Touch (ACTION_UP): 0:(333.3542,1765.3541)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(108.0,399.0)
+:Sending Touch (ACTION_UP): 0:(97.222534,291.4474)
+:Sending Touch (ACTION_DOWN): 0:(938.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(919.5032,1291.013)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(865.0,1240.0)
+:Sending Touch (ACTION_UP): 0:(943.27716,1181.846)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(629.0,1750.0)
+:Sending Touch (ACTION_UP): 0:(627.4241,1744.164)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    //[calendar_time:2018-12-08 10:23:36.322  system_uptime:49026420]
+    // Sending event #2500
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.AboutActivity } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(552.0,28.0)
+:Sending Touch (ACTION_UP): 0:(579.53046,121.0634)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(398.0,506.0)
+:Sending Touch (ACTION_UP): 0:(385.66797,515.69934)
+:Sending Touch (ACTION_DOWN): 0:(524.0,519.0)
+:Sending Touch (ACTION_UP): 0:(519.60114,519.59863)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,1670.0)
+:Sending Touch (ACTION_UP): 0:(1016.138,1673.4021)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(618.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(630.5187,1722.9114)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(633.0,1486.0)
+:Sending Touch (ACTION_UP): 0:(624.5792,1479.1052)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2018-12-08 10:23:36.863  system_uptime:49026961]
+    // Sending event #2600
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(848.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(845.24475,1661.0625)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(676.0,542.0)
+:Sending Touch (ACTION_UP): 0:(728.79877,499.76492)
+:Sending Touch (ACTION_DOWN): 0:(1025.0,154.0)
+:Sending Touch (ACTION_UP): 0:(999.43024,107.50924)
+:Sending Touch (ACTION_DOWN): 0:(823.0,535.0)
+:Sending Touch (ACTION_UP): 0:(824.00793,538.21045)
+:Sending Touch (ACTION_DOWN): 0:(192.0,820.0)
+:Sending Touch (ACTION_UP): 0:(192.5288,818.1336)
+:Sending Touch (ACTION_DOWN): 0:(499.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(503.83246,1654.1882)
+:Sending Touch (ACTION_DOWN): 0:(277.0,31.0)
+:Sending Touch (ACTION_UP): 0:(253.7884,86.03458)
+:Sending Touch (ACTION_DOWN): 0:(83.0,71.0)
+:Sending Touch (ACTION_UP): 0:(143.25781,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2018-12-08 10:23:37.175  system_uptime:49027274]
+    // Sending event #2700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,1251.0)
+:Sending Touch (ACTION_UP): 0:(188.19667,1257.6799)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(952.0,151.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_UP): 0:(935.2927,131.76668)
+:Sending Touch (ACTION_DOWN): 0:(1066.0,898.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,891.79065)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2018-12-08 10:23:37.394  system_uptime:49027492]
+    // Sending event #2800
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,233.0)
+:Sending Touch (ACTION_UP): 0:(303.4558,243.85681)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(261.61862,1326.566)
+:Sending Touch (ACTION_DOWN): 0:(94.0,174.0)
+:Sending Touch (ACTION_UP): 0:(96.40481,195.76038)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(877.4262,1179.1436)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(518.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(508.90323,1104.9255)
+:Sending Touch (ACTION_DOWN): 0:(861.0,257.0)
+:Sending Touch (ACTION_UP): 0:(865.4281,265.125)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(1000.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1131.663)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(245.0,137.0)
+:Sending Touch (ACTION_UP): 0:(239.9227,121.70248)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2018-12-08 10:23:37.804  system_uptime:49027903]
+    // Sending event #2900
+:Sending Touch (ACTION_DOWN): 0:(565.0,545.0)
+:Sending Touch (ACTION_UP): 0:(562.70557,532.48114)
+:Sending Touch (ACTION_DOWN): 0:(274.0,121.0)
+:Sending Touch (ACTION_UP): 0:(255.92969,118.870415)
+:Sending Touch (ACTION_DOWN): 0:(675.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(657.32513,1717.2483)
+:Sending Touch (ACTION_DOWN): 0:(757.0,283.0)
+:Sending Touch (ACTION_UP): 0:(753.2477,272.53632)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(577.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(552.809,1085.1039)
+:Sending Touch (ACTION_DOWN): 0:(701.0,591.0)
+:Sending Touch (ACTION_UP): 0:(620.80444,670.86365)
+:Sending Touch (ACTION_DOWN): 0:(730.0,102.0)
+:Sending Touch (ACTION_UP): 0:(729.5052,95.84768)
+:Sending Touch (ACTION_DOWN): 0:(485.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(478.93213,1157.5345)
+:Sending Touch (ACTION_DOWN): 0:(224.0,455.0)
+:Sending Touch (ACTION_UP): 0:(223.28673,456.07397)
+:Sending Touch (ACTION_DOWN): 0:(618.0,704.0)
+:Sending Touch (ACTION_UP): 0:(599.62946,703.93854)
+:Sending Touch (ACTION_DOWN): 0:(466.0,257.0)
+:Sending Touch (ACTION_UP): 0:(460.59283,246.35742)
+:Sending Touch (ACTION_DOWN): 0:(738.0,1227.0)
+:Sending Touch (ACTION_UP): 0:(788.6029,1249.8214)
+:Sending Touch (ACTION_DOWN): 0:(323.0,648.0)
+:Sending Touch (ACTION_UP): 0:(317.17133,646.0077)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(81.0,194.0)
+:Sending Touch (ACTION_UP): 0:(82.253105,194.24643)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2018-12-08 10:23:38.201  system_uptime:49028300]
+    // Sending event #3000
+:Sending Touch (ACTION_DOWN): 0:(973.0,1752.0)
+:Sending Touch (ACTION_UP): 0:(975.44403,1750.7223)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(298.0,478.0)
+:Sending Touch (ACTION_UP): 0:(296.23093,485.3903)
+:Sending Touch (ACTION_DOWN): 0:(97.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(81.83965,1250.1725)
+:Sending Touch (ACTION_DOWN): 0:(861.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(859.4742,1674.955)
+:Sending Touch (ACTION_DOWN): 0:(986.0,899.0)
+:Sending Touch (ACTION_UP): 0:(986.55206,900.336)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    // Rejecting start of Intent { act=android.settings.APPLICATION_DEVELOPMENT_SETTINGS cmp=com.android.settings/.Settings$DevelopmentSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(71.0,1026.0)
+:Sending Touch (ACTION_UP): 0:(0.0,980.0079)
+:Sending Touch (ACTION_DOWN): 0:(178.0,895.0)
+:Sending Touch (ACTION_UP): 0:(89.82378,865.3492)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(819.7438,1328.6005)
+:Sending Touch (ACTION_DOWN): 0:(606.0,795.0)
+:Sending Touch (ACTION_UP): 0:(601.6586,772.8993)
+:Sending Touch (ACTION_DOWN): 0:(561.0,752.0)
+    //[calendar_time:2018-12-08 10:23:38.571  system_uptime:49028670]
+    // Sending event #3100
+:Sending Touch (ACTION_UP): 0:(575.9117,734.8433)
+:Sending Touch (ACTION_DOWN): 0:(102.0,167.0)
+:Sending Touch (ACTION_UP): 0:(103.52845,163.44882)
+:Sending Touch (ACTION_DOWN): 0:(709.0,711.0)
+:Sending Touch (ACTION_UP): 0:(714.0254,697.5655)
+:Sending Touch (ACTION_DOWN): 0:(607.0,379.0)
+:Sending Touch (ACTION_UP): 0:(607.47815,381.47037)
+:Sending Touch (ACTION_DOWN): 0:(842.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(847.26135,1416.3573)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(536.0,810.0)
+    //[calendar_time:2018-12-08 10:23:38.796  system_uptime:49028894]
+    // Sending event #3200
+:Sending Touch (ACTION_UP): 0:(549.2717,843.15204)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,492.0)
+:Sending Touch (ACTION_UP): 0:(977.7921,512.0611)
+:Sending Touch (ACTION_DOWN): 0:(915.0,395.0)
+:Sending Touch (ACTION_UP): 0:(917.8109,397.10495)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(975.0,1087.0)
+:Sending Touch (ACTION_UP): 0:(990.01996,1088.3541)
+:Sending Touch (ACTION_DOWN): 0:(61.0,1359.0)
+:Sending Touch (ACTION_UP): 0:(8.679716,1331.5612)
+:Sending Touch (ACTION_DOWN): 0:(388.0,1469.0)
+:Sending Touch (ACTION_UP): 0:(309.08777,1429.5853)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(231.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(249.66151,1124.4092)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(504.0,988.0)
+:Sending Touch (ACTION_UP): 0:(556.48486,1018.37256)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(223.0,1578.0)
+    //[calendar_time:2018-12-08 10:23:39.036  system_uptime:49029134]
+    // Sending event #3300
+:Sending Touch (ACTION_UP): 0:(281.81827,1642.3936)
+:Sending Touch (ACTION_DOWN): 0:(312.0,1477.0)
+:Sending Touch (ACTION_UP): 0:(260.87277,1568.9037)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Flip keyboardOpen=false
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(828.0,448.0)
+:Sending Touch (ACTION_UP): 0:(819.0779,463.16476)
+:Sending Touch (ACTION_DOWN): 0:(830.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(770.96265,1709.1659)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(247.51526,1285.0519)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(713.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(811.738,1614.7849)
+    //[calendar_time:2018-12-08 10:23:39.861  system_uptime:49029959]
+    // Sending event #3400
+    //[calendar_time:2018-12-08 10:23:39.861  system_uptime:49029959]
+    // Sending event #3400
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(550.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(534.73553,1037.9377)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://market.android.com/... cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(933.0,1186.0)
+:Sending Touch (ACTION_UP): 0:(934.44366,1182.9495)
+:Sending Touch (ACTION_DOWN): 0:(421.0,991.0)
+:Sending Touch (ACTION_UP): 0:(402.88672,1081.6107)
+:Sending Touch (ACTION_DOWN): 0:(735.0,219.0)
+:Sending Touch (ACTION_UP): 0:(733.7161,212.6205)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(627.0,1065.0)
+:Sending Touch (ACTION_UP): 0:(650.68604,1083.6226)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://stevealbright.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(613.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(598.8616,1059.3795)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://stevealbright.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(967.0,1281.0)
+:Sending Touch (ACTION_UP): 0:(962.6417,1293.7852)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(557.01086,1273.5074)
+    //[calendar_time:2018-12-08 10:23:40.393  system_uptime:49030492]
+    // Sending event #3500
+:Sending Touch (ACTION_DOWN): 0:(669.0,1574.0)
+:Sending Touch (ACTION_UP): 0:(670.5419,1569.0914)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    // Rejecting start of Intent { act=com.android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(612.0,20.0)
+:Sending Touch (ACTION_UP): 0:(619.3962,9.794093)
+:Sending Touch (ACTION_DOWN): 0:(505.0,55.0)
+:Sending Touch (ACTION_UP): 0:(512.7514,52.74903)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,558.0)
+:Sending Touch (ACTION_UP): 0:(1039.2552,557.36145)
+:Sending Touch (ACTION_DOWN): 0:(475.0,704.0)
+:Sending Touch (ACTION_UP): 0:(516.135,677.492)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android-mileage.googlecode.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(344.0,578.0)
+:Sending Touch (ACTION_UP): 0:(345.30203,568.44476)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(297.0,1685.0)
+:Sending Touch (ACTION_UP): 0:(270.60788,1769.8392)
+:Sending Touch (ACTION_DOWN): 0:(22.0,222.0)
+:Sending Touch (ACTION_UP): 0:(0.0,244.64134)
+:Sending Touch (ACTION_DOWN): 0:(433.0,1689.0)
+:Sending Touch (ACTION_UP): 0:(434.3999,1693.6458)
+:Sending Touch (ACTION_DOWN): 0:(221.0,589.0)
+:Sending Touch (ACTION_UP): 0:(250.69128,595.94727)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2018-12-08 10:23:40.651  system_uptime:49030749]
+    // Sending event #3600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(305.0,432.0)
+:Sending Touch (ACTION_UP): 0:(299.81412,438.93353)
+:Sending Touch (ACTION_DOWN): 0:(673.0,12.0)
+:Sending Touch (ACTION_UP): 0:(635.4373,31.21162)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(853.0,1663.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_UP): 0:(874.5965,1682.1052)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,1523.0)
+:Sending Touch (ACTION_UP): 0:(133.7868,1555.0793)
+:Sending Touch (ACTION_DOWN): 0:(319.0,408.0)
+:Sending Touch (ACTION_UP): 0:(307.219,408.28537)
+:Sending Touch (ACTION_DOWN): 0:(930.0,200.0)
+:Sending Touch (ACTION_UP): 0:(931.91534,207.12578)
+:Sending Touch (ACTION_DOWN): 0:(717.0,995.0)
+:Sending Touch (ACTION_UP): 0:(712.4729,1012.0118)
+    //[calendar_time:2018-12-08 10:23:41.074  system_uptime:49031172]
+    // Sending event #3700
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://market.android.com/... cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(518.0,329.0)
+:Sending Touch (ACTION_UP): 0:(516.4782,322.112)
+:Sending Touch (ACTION_DOWN): 0:(264.0,138.0)
+:Sending Touch (ACTION_UP): 0:(257.60474,138.12064)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,380.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,377.342)
+:Sending Touch (ACTION_DOWN): 0:(363.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(355.72418,928.00757)
+:Sending Touch (ACTION_DOWN): 0:(362.0,520.0)
+:Sending Touch (ACTION_UP): 0:(358.71448,518.84033)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://market.android.com/... cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(174.0,468.0)
+:Sending Touch (ACTION_UP): 0:(161.60031,465.63177)
+:Sending Touch (ACTION_DOWN): 0:(187.0,1515.0)
+:Sending Touch (ACTION_UP): 0:(181.4211,1494.6113)
+    //[calendar_time:2018-12-08 10:23:41.601  system_uptime:49031699]
+    // Sending event #3800
+:Sending Touch (ACTION_DOWN): 0:(834.0,353.0)
+:Sending Touch (ACTION_UP): 0:(833.6148,354.28143)
+:Sending Touch (ACTION_DOWN): 0:(37.0,5.0)
+:Sending Touch (ACTION_UP): 0:(32.98942,14.382503)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(902.0,248.0)
+:Sending Touch (ACTION_UP): 0:(856.65186,215.56023)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(75.0,60.0)
+:Sending Touch (ACTION_UP): 0:(68.76339,60.25802)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(785.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(793.2131,1062.9594)
+:Sending Touch (ACTION_DOWN): 0:(782.0,204.0)
+:Sending Touch (ACTION_UP): 0:(786.46655,203.59045)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(7.2960663,1659.0214)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(359.0,445.0)
+:Sending Touch (ACTION_UP): 0:(363.9392,465.29916)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    //[calendar_time:2018-12-08 10:23:42.299  system_uptime:49032397]
+    // Sending event #3900
+:Sending Touch (ACTION_DOWN): 0:(124.0,205.0)
+:Sending Touch (ACTION_UP): 0:(114.028564,200.15067)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(864.0,782.0)
+:Sending Touch (ACTION_UP): 0:(898.1778,798.6671)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(883.0,373.0)
+:Sending Touch (ACTION_UP): 0:(882.4046,379.71277)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(948.0,117.0)
+:Sending Touch (ACTION_UP): 0:(961.5734,123.30831)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(961.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(961.0852,1328.7435)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1365.8458)
+:Sending Touch (ACTION_DOWN): 0:(270.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(248.63338,1291.1222)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+    //[calendar_time:2018-12-08 10:23:42.485  system_uptime:49032583]
+    // Sending event #4000
+    //[calendar_time:2018-12-08 10:23:42.486  system_uptime:49032584]
+    // Sending event #4000
+:Sending Touch (ACTION_DOWN): 0:(408.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(375.98322,1166.364)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(143.0,1789.0)
+:Sending Touch (ACTION_UP): 0:(166.68356,1764.5895)
+:Sending Touch (ACTION_DOWN): 0:(411.0,87.0)
+:Sending Touch (ACTION_UP): 0:(409.84692,99.350845)
+:Sending Touch (ACTION_DOWN): 0:(98.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(126.958534,1110.5156)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1481.0)
+:Sending Touch (ACTION_UP): 0:(111.00055,1493.2872)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,1112.0)
+:Sending Touch (ACTION_UP): 0:(993.60876,1120.3226)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(565.0,1341.0)
+:Sending Touch (ACTION_UP): 0:(564.81714,1332.1294)
+:Sending Touch (ACTION_DOWN): 0:(738.0,961.0)
+:Sending Touch (ACTION_UP): 0:(738.1573,943.24554)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(10.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(13.025659,1735.421)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(401.0,799.0)
+:Sending Touch (ACTION_UP): 0:(398.51846,780.9518)
+:Sending Touch (ACTION_DOWN): 0:(985.0,359.0)
+:Sending Touch (ACTION_UP): 0:(983.04205,359.92844)
+:Sending Touch (ACTION_DOWN): 0:(716.0,1000.0)
+    //[calendar_time:2018-12-08 10:23:42.808  system_uptime:49032906]
+    // Sending event #4100
+:Sending Touch (ACTION_UP): 0:(663.0639,1081.7482)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(513.0,641.0)
+:Sending Touch (ACTION_UP): 0:(524.82385,650.0721)
+:Sending Touch (ACTION_DOWN): 0:(103.0,576.0)
+:Sending Touch (ACTION_UP): 0:(110.46606,582.51263)
+:Sending Touch (ACTION_DOWN): 0:(484.0,403.0)
+:Sending Touch (ACTION_UP): 0:(359.6638,409.6899)
+:Sending Touch (ACTION_DOWN): 0:(790.0,273.0)
+:Sending Touch (ACTION_UP): 0:(829.5203,249.61888)
+:Sending Touch (ACTION_DOWN): 0:(97.0,1253.0)
+:Sending Touch (ACTION_UP): 0:(68.47215,1278.6439)
+:Sending Touch (ACTION_DOWN): 0:(680.0,1495.0)
+:Sending Touch (ACTION_UP): 0:(655.98956,1572.5088)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1711.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_UP): 0:(200.94397,1721.0851)
+:Sending Touch (ACTION_DOWN): 0:(856.0,496.0)
+:Sending Touch (ACTION_UP): 0:(841.4419,524.55505)
+    //[calendar_time:2018-12-08 10:23:43.122  system_uptime:49033221]
+    // Sending event #4200
+    //[calendar_time:2018-12-08 10:23:43.123  system_uptime:49033221]
+    // Sending event #4200
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(64.0,1291.0)
+:Sending Touch (ACTION_UP): 0:(57.710293,1289.0662)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1281.0)
+:Sending Touch (ACTION_UP): 0:(35.03669,1293.8246)
+:Sending Touch (ACTION_DOWN): 0:(447.0,379.0)
+:Sending Touch (ACTION_UP): 0:(448.29816,381.6086)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(60.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1170.3073)
+:Sending Touch (ACTION_DOWN): 0:(46.0,349.0)
+:Sending Touch (ACTION_UP): 0:(41.121746,353.5649)
+:Sending Touch (ACTION_DOWN): 0:(559.0,1784.0)
+:Sending Touch (ACTION_UP): 0:(562.0758,1778.8282)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(295.0,358.0)
+:Sending Touch (ACTION_UP): 0:(307.36618,368.29214)
+:Sending Touch (ACTION_DOWN): 0:(915.0,1462.0)
+:Sending Touch (ACTION_UP): 0:(903.85284,1463.6963)
+:Sending Touch (ACTION_DOWN): 0:(638.0,1045.0)
+:Sending Touch (ACTION_UP): 0:(515.11554,1164.2435)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://stevealbright.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(334.0,1647.0)
+:Sending Touch (ACTION_UP): 0:(331.90546,1643.9255)
+:Sending Touch (ACTION_DOWN): 0:(861.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(858.3549,1082.2625)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    //[calendar_time:2018-12-08 10:23:43.439  system_uptime:49033539]
+    // Sending event #4300
+:Sending Touch (ACTION_DOWN): 0:(19.0,1065.0)
+:Sending Touch (ACTION_UP): 0:(7.5406733,1021.1875)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(965.0,433.0)
+:Sending Touch (ACTION_UP): 0:(961.02924,423.62897)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // activityResuming(com.evancharlton.mileage)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1066.0,628.0)
+:Sending Touch (ACTION_UP): 0:(1065.7012,635.5541)
+:Sending Touch (ACTION_DOWN): 0:(739.0,264.0)
+:Sending Touch (ACTION_UP): 0:(747.0807,273.15158)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(316.0,479.0)
+:Sending Touch (ACTION_UP): 0:(310.16547,486.4544)
+:Sending Touch (ACTION_DOWN): 0:(562.0,672.0)
+:Sending Touch (ACTION_UP): 0:(578.34644,669.5277)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.evancharlton.mileage/.Mileage;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.evancharlton.mileage/.Mileage } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(365.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(364.66074,1397.4908)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(157.0,955.0)
+:Sending Touch (ACTION_UP): 0:(155.84181,951.4632)
+:Sending Touch (ACTION_DOWN): 0:(574.0,229.0)
+:Sending Touch (ACTION_UP): 0:(573.4341,283.8297)
+:Sending Touch (ACTION_DOWN): 0:(891.0,1790.0)
+:Sending Touch (ACTION_UP): 0:(870.5023,1791.2343)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(587.0,1781.0)
+    //[calendar_time:2018-12-08 10:23:43.980  system_uptime:49034078]
+    // Sending event #4400
+:Sending Touch (ACTION_UP): 0:(492.47794,1695.3317)
+    // Allowing start of Intent { cmp=com.evancharlton.mileage/.AboutActivity } in package com.evancharlton.mileage
+:Sending Touch (ACTION_DOWN): 0:(289.0,1196.0)
+:Sending Touch (ACTION_UP): 0:(354.3244,1146.0052)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(460.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(453.31012,1794.0)
+:Sending Touch (ACTION_DOWN): 0:(246.0,334.0)
+:Sending Touch (ACTION_UP): 0:(244.87361,356.88748)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(615.0,1384.0)
+:Sending Touch (ACTION_UP): 0:(674.0974,1367.2726)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(204.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(201.13095,1659.9951)
+:Sending Touch (ACTION_DOWN): 0:(579.0,536.0)
+:Sending Touch (ACTION_UP): 0:(580.10254,532.9346)
+:Sending Touch (ACTION_DOWN): 0:(955.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(1073.7003,1361.5925)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    //[calendar_time:2018-12-08 10:23:44.458  system_uptime:49034556]
+    // Sending event #4500
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(628.0,230.0)
+:Sending Touch (ACTION_UP): 0:(627.7721,214.41855)
+:Sending Touch (ACTION_DOWN): 0:(954.0,233.0)
+:Sending Touch (ACTION_UP): 0:(958.6958,235.46663)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(494.0,1198.0)
+:Sending Touch (ACTION_UP): 0:(493.52533,1207.4163)
+:Sending Touch (ACTION_DOWN): 0:(331.0,186.0)
+:Sending Touch (ACTION_UP): 0:(330.64474,197.02719)
+:Sending Touch (ACTION_DOWN): 0:(91.0,1647.0)
+:Sending Touch (ACTION_UP): 0:(75.19342,1652.2249)
+:Sending Touch (ACTION_DOWN): 0:(557.0,721.0)
+:Sending Touch (ACTION_UP): 0:(512.39844,732.3308)
+:Sending Touch (ACTION_DOWN): 0:(727.0,478.0)
+:Sending Touch (ACTION_UP): 0:(731.5713,432.8733)
+:Sending Touch (ACTION_DOWN): 0:(727.0,836.0)
+:Sending Touch (ACTION_UP): 0:(662.95294,869.3699)
+:Sending Touch (ACTION_DOWN): 0:(15.0,650.0)
+:Sending Touch (ACTION_UP): 0:(13.926189,656.20514)
+:Sending Touch (ACTION_DOWN): 0:(38.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(105.04586,1409.4664)
+:Sending Touch (ACTION_DOWN): 0:(377.0,551.0)
+    //[calendar_time:2018-12-08 10:23:45.046  system_uptime:49035144]
+    // Sending event #4600
+:Sending Touch (ACTION_UP): 0:(393.89374,578.8524)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(684.0,710.0)
+:Sending Touch (ACTION_UP): 0:(664.60895,718.1221)
+:Sending Touch (ACTION_DOWN): 0:(258.0,498.0)
+:Sending Touch (ACTION_UP): 0:(251.04942,496.35922)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android-mileage.googlecode.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1062.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(1066.2571,1396.0189)
+:Sending Touch (ACTION_DOWN): 0:(879.0,746.0)
+:Sending Touch (ACTION_UP): 0:(910.1355,689.49274)
+:Sending Touch (ACTION_DOWN): 0:(166.0,934.0)
+:Sending Touch (ACTION_UP): 0:(88.313385,1021.30804)
+:Sending Touch (ACTION_DOWN): 0:(886.0,414.0)
+:Sending Touch (ACTION_UP): 0:(874.2563,403.10657)
+:Sending Touch (ACTION_DOWN): 0:(300.0,541.0)
+:Sending Touch (ACTION_UP): 0:(294.8871,535.2883)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(557.0,1205.0)
+:Sending Touch (ACTION_UP): 0:(542.7683,1208.5024)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(575.0,1196.0)
+:Sending Touch (ACTION_UP): 0:(569.164,1202.6989)
+:Sending Touch (ACTION_DOWN): 0:(281.0,1559.0)
+:Sending Touch (ACTION_UP): 0:(286.7324,1542.3942)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(115.0,854.0)
+:Sending Touch (ACTION_UP): 0:(108.25366,817.82654)
+:Sending Touch (ACTION_DOWN): 0:(236.0,1753.0)
+:Sending Touch (ACTION_UP): 0:(235.17235,1751.487)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2018-12-08 10:23:45.538  system_uptime:49035636]
+    // Sending event #4700
+:Sending Touch (ACTION_DOWN): 0:(269.0,641.0)
+:Sending Touch (ACTION_UP): 0:(201.11862,672.9241)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,934.0)
+:Sending Touch (ACTION_UP): 0:(1028.5917,932.2427)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1500.0)
+:Sending Touch (ACTION_UP): 0:(540.6789,1539.0664)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(549.0,1687.0)
+:Sending Touch (ACTION_UP): 0:(559.6181,1684.6924)
+:Sending Touch (ACTION_DOWN): 0:(508.0,1621.0)
+:Sending Touch (ACTION_UP): 0:(512.079,1634.7814)
+:Sending Touch (ACTION_DOWN): 0:(971.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(965.7815,1328.0168)
+:Sending Touch (ACTION_DOWN): 0:(298.0,696.0)
+    // Injection Failed
+    //[calendar_time:2018-12-08 10:23:46.031  system_uptime:49036129]
+    // Sending event #4800
+:Sending Touch (ACTION_UP): 0:(342.67636,666.1956)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(326.0,927.0)
+:Sending Touch (ACTION_UP): 0:(294.89307,950.9509)
+:Sending Touch (ACTION_DOWN): 0:(819.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(823.43176,999.2867)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://market.android.com/... cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(207.0,1468.0)
+:Sending Touch (ACTION_UP): 0:(212.03557,1467.089)
+:Sending Touch (ACTION_DOWN): 0:(699.0,1684.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://www.artfulbits.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_UP): 0:(691.2231,1698.0066)
+:Sending Touch (ACTION_DOWN): 0:(814.0,988.0)
+:Sending Touch (ACTION_UP): 0:(790.5622,1000.5844)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://market.android.com/... cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2018-12-08 10:23:46.500  system_uptime:49036599]
+    // Sending event #4900
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(960.0,922.0)
+:Sending Touch (ACTION_UP): 0:(973.71564,917.37305)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(60.0,32.0)
+:Sending Touch (ACTION_UP): 0:(59.72297,15.083435)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(508.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(447.08853,1605.3339)
+:Sending Touch (ACTION_DOWN): 0:(518.0,1349.0)
+:Sending Touch (ACTION_UP): 0:(511.3072,1346.9874)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mailto:xxxxxxx@xxxxxxxxxxxx.xxx cmp=com.google.android.gm/.ComposeActivityGmailExternal } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(662.0,497.0)
+:Sending Touch (ACTION_UP): 0:(660.49164,497.49002)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,1436.0)
+:Sending Touch (ACTION_UP): 0:(1028.744,1429.6547)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(844.0,430.0)
+:Sending Touch (ACTION_UP): 0:(832.01105,436.85687)
+Events injected: 5000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=3 pointers=3 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=22959ms (0ms mobile, 0ms wifi, 22959ms not connected)
+// Monkey finished
